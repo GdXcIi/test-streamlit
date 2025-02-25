@@ -50,7 +50,7 @@ if page == "Accueil":
         st.success("Bravo, tu as cliqué sur le bouton !")
 
     # Ajout d'une image
-    st.image("https://source.unsplash.com/600x300/?nature,technology", caption="Une belle image dynamique")
+    st.image("https://s1.qwant.com/thumbr/474x471/2/b/d1c948303c6fd54ca3c1d7e59a6f2902ddc3df1e628453d8c42eaec4f7b65d/th.jpg?u=https%3A%2F%2Ftse.mm.bing.net%2Fth%3Fid%3DOIP.PGo9E8zB952jEpBStbVAcwHaHX%26pid%3DApi&q=0&b=1&p=0&a=0", caption="Une belle image dynamique")
 
 elif page == "Données":
     st.subheader("Données aléatoires")
